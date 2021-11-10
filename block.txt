@@ -4,7 +4,3 @@
 (\.|^)twitch\.tv$
 (\.|^)tiktokv\.com$
 (\.|^)tiktokcdn\.com$
-(\.|^)reddit\.com$
-(\.|^)discord\.com$
-(\.|^)redditmedia\.com$
-(\.|^)discordapp\.com$
