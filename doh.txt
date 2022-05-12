@@ -90,10 +90,6 @@ dns.moulticast.net
 dns.dns-over-https.com
 hydra.plan9-ns1.com
 draco.plan9-ns2.com
-dns.quad9.net
-dns9.quad9.net
-dns10.quad9.net
-dns11.quad9.net
 kaitain.restena.lu
 basic.rethinkdns.com
 dns.rubyfish.cn
